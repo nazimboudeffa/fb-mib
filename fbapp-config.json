@@ -1,0 +1,18 @@
+{
+  "instant_games": {
+    "custom_update_templates": {
+      "first_place": {
+        "example": "Player X just became the first place in game Y!",
+      }
+    },
+    "bot": {
+      "subscription_type": "OPT_IN_DEV",
+    },
+    "orientation": "LANDSCAPE",
+    "navigation_menu_version": "NAV_FLOATING",
+    "match_player_config": {
+      "min_context_size": 2,
+      "max_context_size": 20,
+    },
+  }
+}
